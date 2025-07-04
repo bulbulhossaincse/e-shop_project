@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-hv#dso$93jgof@l#+!7t&!sjutt%z6v$4vqk#s&^kjq#nkx$qx
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', "e-shop-project-hwpg.onrender.com"]
 
 
 # Application definition
