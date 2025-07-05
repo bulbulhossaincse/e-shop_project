@@ -22,10 +22,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'django-insecure-hv#dso$93jgof@l#+!7t&!sjutt%z6v$4vqk#s&^kjq#nkx$qx'
 
-# SECURITY WARNING: don't run with debug turned on in production!
+# SECURITY WARNING: don't run with debug turned on in production!isjfisjf
 DEBUG = True
 
-ALLOWED_HOSTS = ['e-shop-project-hwpg.onrender.com']
+ALLOWED_HOSTS = ['e-shop-project-hwpg.onrender.com', 'localhost', '127.0.0.1',]
 
 
 # Application definition
